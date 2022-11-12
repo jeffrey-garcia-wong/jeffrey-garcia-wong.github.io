@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ddb3f0a.css",
+    "main.js": "/static/js/main.6482d6f4.js",
+    "static/js/787.3c86a6c9.chunk.js": "/static/js/787.3c86a6c9.chunk.js",
+    "static/media/construct-outline.svg": "/static/media/construct-outline.2ad05654eeca7e5462c294fae6d4187f.svg",
+    "static/media/library-outline.svg": "/static/media/library-outline.8e2b384b677070134df3ca213f9e3416.svg",
+    "index.html": "/index.html",
+    "static/media/calendar-outline.svg": "/static/media/calendar-outline.72351c4f7f06adf7e00ced0f479f20e4.svg",
+    "static/media/extension-puzzle-outline.svg": "/static/media/extension-puzzle-outline.4177db17de6ca167db49b0819a4b10da.svg",
+    "static/media/stats-chart-outline.svg": "/static/media/stats-chart-outline.afa611baf77561ed70a5aaac7d9807bb.svg",
+    "static/media/server-outline.svg": "/static/media/server-outline.20642cf31293c7a8fcd8a98b5266631a.svg",
+    "static/media/call-outline.svg": "/static/media/call-outline.52e287f0ae021ac3a0d4b28c657bd0dd.svg",
+    "static/media/briefcase-outline.svg": "/static/media/briefcase-outline.7cbfce257fe5a029a18371d02b3db4d2.svg",
+    "static/media/school-outline.svg": "/static/media/school-outline.91bd778810eef524879cf0ae21eb9ddc.svg",
+    "static/media/desktop-outline.svg": "/static/media/desktop-outline.7052ea875b18f03c7b76c1cb04cac6ee.svg",
+    "static/media/terminal-outline.svg": "/static/media/terminal-outline.f649ee4b438623e56cb18bd3dd1a31a8.svg",
+    "static/media/cloud-done-outline.svg": "/static/media/cloud-done-outline.2fdda3a55790a977dcbbdb733a54349e.svg",
+    "static/media/location-outline.svg": "/static/media/location-outline.6562895cecf75dd0df6fa6743d6c945f.svg",
+    "static/media/phone-portrait-outline.svg": "/static/media/phone-portrait-outline.abba3868529316739ff459067b045b20.svg",
+    "static/media/mail-outline.svg": "/static/media/mail-outline.b1d0115dae91e5ca5f90b3a040fc30f2.svg",
+    "main.9ddb3f0a.css.map": "/static/css/main.9ddb3f0a.css.map",
+    "main.6482d6f4.js.map": "/static/js/main.6482d6f4.js.map",
+    "787.3c86a6c9.chunk.js.map": "/static/js/787.3c86a6c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ddb3f0a.css",
+    "static/js/main.6482d6f4.js"
+  ]
+}
