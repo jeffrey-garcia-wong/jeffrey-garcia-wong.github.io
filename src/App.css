@@ -371,3 +371,44 @@ img {
   border-radius: 50%;
   box-shadow: 0 0 0 4px #FFFFFF;
 }
+
+.sortAlgDemo {
+  overflow: auto;
+  padding: 0px 0px 30px 0px;
+}
+
+.sortAlgDemo .header {
+  margin: auto;
+  /* border-radius: 10px;
+  border: 1px solid #333333;
+  background-color: #282c34; */
+  padding: 5px 20px 10px 0px;
+  text-align: left;
+}
+
+.sortAlgDemo .label {
+  text-align: center;
+  vertical-align: middle;
+  padding: 3px 10px;
+}
+
+.sortAlgDemo img {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+}
+
+.sortAlgDemo .label:hover {
+  border-radius: 5px;
+  background-color: #282c34;
+  cursor: pointer;
+}
+
+.sortAlgDemo .bar {
+  float: left;  
+  position: relative;
+  border-left: 5px solid #808080;
+  height: 500px;
+  left: 5px;
+  top: 0px;
+}

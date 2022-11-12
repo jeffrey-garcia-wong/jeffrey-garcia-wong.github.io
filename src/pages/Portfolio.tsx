@@ -1,3 +1,7 @@
+import { Outlet, Link } from "react-router-dom";
+
+import CSS from 'csstype';
+
 import { default as sortAlgDemo } from '../assets/stats-chart-outline.svg';
 import { default as interviewPrep } from '../assets/library-outline.svg';
 
@@ -20,7 +24,12 @@ const Portfolio = () => {
                                                 <img src={sortAlgDemo} className="svg-filter"></img>
                                             </td>
                                             <td className="rightcell">
-                                                <h3>Sorting Algorithm Animations</h3><p/>
+                                                <h3>
+                                                    <Link className="link" to="/sortAlgDemo">
+                                                        Sorting Algorithm Animations
+                                                    </Link>
+                                                    
+                                                </h3>
                                             </td>
                                         </tr>
                                         <tr>
