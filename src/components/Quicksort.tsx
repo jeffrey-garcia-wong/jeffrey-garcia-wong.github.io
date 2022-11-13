@@ -29,35 +29,25 @@ const Quicksort = () => {
     };
 
     async function quicksort(data:number[], start:number, end:number) {
-        if (start < end) {
-            let splitIndex = partition(data, start, end);
-            await delay(200);
-            quicksort(data, start, splitIndex - 1);
-            quicksort(data, splitIndex + 1, end);         
-        }
+        if (start >= end) return;
+        const pivotVal = data[Math.floor((end - start) / 2) + start];
+        const splitIndex = partition(data, pivotVal, start, end);
+        await delay(200);
+        quicksort(data, start, splitIndex - 1);
+        quicksort(data, splitIndex, end);
     }    
 
-    const partition = (data:number[], start:number, end:number) => {
-        const pivotVal = data[end];
-        let i = (start - 1);
-        
-        for (let j=start; j<=end-1; j++) {
-    
-            // If current element is smaller
-            // than the pivot
-            if (data[j] < pivotVal) {
-    
-                // Increment index of
-                // smaller element
-                i++;
-                
-                swap(i, j);
+    const partition = (data:number[], pivotVal:number, start:number, end:number) => {
+        while (start <= end) {
+            while (data[start] < pivotVal) start++;
+            while (data[end] > pivotVal) end--;
+            if (start <= end) {
+                swap(start, end);
+                start++;
+                end--;
             }
         }
-        
-        swap(i+1, end); 
-        
-        return i+1;
+        return start;
     }
     
     const swap = (a:number, b:number) => {
