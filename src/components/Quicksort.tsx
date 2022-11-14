@@ -10,7 +10,7 @@ const Quicksort = () => {
     for (let i=0; i<50; i++) {
         data[i] = Math.floor(Math.random() * 500);
         let id = `d${i}`;
-        console.log(id);
+        // console.log(id);
         const barStyle:CSS.Properties = {
             position: `relative`,
             height: `${data[i]}px`,
