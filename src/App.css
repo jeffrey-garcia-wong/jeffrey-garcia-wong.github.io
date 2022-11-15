@@ -377,6 +377,22 @@ img {
   padding: 0px 0px 30px 0px;
 }
 
+.sortAlgDemo td {
+  padding-right: 5px;
+  text-align: left;
+  vertical-align: bottom;
+}
+
+.sortAlgDemo .title {
+  font-size: 24px; 
+}
+
+.sortAlgDemo .other {
+  font-size: 12px;
+  font-style: italic;
+  text-align: right;
+}
+
 .sortAlgDemo .header {
   margin: auto;
   /* border-radius: 10px;

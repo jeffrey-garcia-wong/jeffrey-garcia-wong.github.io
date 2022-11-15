@@ -25,7 +25,7 @@ const Portfolio = () => {
                                             </td>
                                             <td className="rightcell">
                                                 <h3>
-                                                    <Link className="link" to="/sortAlgDemo">
+                                                    <Link className="link" to="/sortAlgDemo/quicksort">
                                                         Sorting Algorithm Animations
                                                     </Link>
                                                     

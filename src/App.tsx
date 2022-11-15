@@ -8,6 +8,7 @@ import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
 import Resume from './pages/Resume';
 import Quicksort from './components/Quicksort';
+import Mergesort from './components/Mergesort';
 
 function App() {
   return (
@@ -18,7 +19,8 @@ function App() {
           <Route path="/about" element={<About />}></Route>
           <Route path="/resume" element={<Resume />}></Route>
           <Route path="/portfolio" element={<Portfolio />}></Route>
-          <Route path="/sortAlgDemo" element={<Quicksort />}></Route>
+          <Route path="/sortAlgDemo/quicksort" element={<Quicksort />}></Route>
+          <Route path="/sortAlgDemo/mergesort" element={<Mergesort />}></Route>
           <Route path="/contact" element={<Contact />}></Route>
         </Route>  
       </Routes>
