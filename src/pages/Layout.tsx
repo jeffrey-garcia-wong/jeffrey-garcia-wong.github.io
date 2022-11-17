@@ -1,9 +1,11 @@
 import { Outlet, Link } from "react-router-dom";
 
-import { default as email } from '../assets/mail-outline.svg';
-import { default as phone } from '../assets/call-outline.svg';
-import { default as birthday } from '../assets/calendar-outline.svg';
-import { default as location } from '../assets/location-outline.svg';
+import { default as github } from '../assets/logo-github.svg';
+import { default as google } from '../assets/logo-google.svg';
+import { default as facebook } from '../assets/logo-facebook.svg';
+import { default as twitter } from '../assets/logo-twitter.svg';
+import { default as docker } from '../assets/logo-docker.svg';
+import { default as linkedin } from '../assets/logo-linkedin.svg';
 
 import Contact from '../pages/Contact';
 
@@ -34,6 +36,40 @@ const Layout = () => {
                         <hr/>
                         
                         <Contact />
+
+                        <hr/>
+
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td className="leftcell">
+                                        <a href="https://github.com/jeffrey-garcia-wong/" target="_blank">
+                                            <img src={github} className="svg-filter" alt="github"></img>
+                                        </a>
+                                    </td>
+                                    <td className="leftcell">
+                                        <a href="https://www.facebook.com/jeffrey.garcia.792197" target="_blank">
+                                            <img src={facebook} className="svg-filter" alt="facebook"></img>
+                                        </a>
+                                    </td>
+                                    <td className="leftcell">
+                                        <a href="https://hub.docker.com/u/jeffreygarcia" target="_blank">
+                                            <img src={docker} className="svg-filter" alt="docker"></img>
+                                        </a>
+                                    </td>                                         
+                                    <td className="leftcell">
+                                        <a href="https://twitter.com/jeffreyklwong" target="_blank">
+                                            <img src={twitter} className="svg-filter" alt="twitter"></img>
+                                        </a>
+                                    </td>
+                                    <td className="leftcell">
+                                        <a href="https://twitter.com/jeffreyklwong" target="_blank">
+                                            <img src={linkedin} className="svg-filter" alt="linkedin"></img>
+                                        </a>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>                        
                     </div>                      
                 </div>
             </div>
