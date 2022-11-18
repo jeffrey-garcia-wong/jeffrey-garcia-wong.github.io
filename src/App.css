@@ -98,6 +98,10 @@ img {
 }
 
 .header img {
+  vertical-align: middle;
+}
+
+.header .social img {
   width: 20px;
   height: 20px;
   vertical-align: middle;

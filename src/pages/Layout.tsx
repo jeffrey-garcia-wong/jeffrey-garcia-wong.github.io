@@ -39,7 +39,7 @@ const Layout = () => {
 
                         <hr/>
 
-                        <table>
+                        <table className="social">
                             <tbody>
                                 <tr>
                                     <td className="leftcell">
@@ -48,7 +48,7 @@ const Layout = () => {
                                         </a>
                                     </td>
                                     <td className="leftcell">
-                                        <a href="https://www.facebook.com/jeffrey.garcia.792197" target="_blank">
+                                        <a href="https://www.facebook.com/jeffrey.garcia.wong/" target="_blank">
                                             <img src={facebook} className="svg-filter" alt="facebook"></img>
                                         </a>
                                     </td>
@@ -57,7 +57,7 @@ const Layout = () => {
                                             <img src={docker} className="svg-filter" alt="docker"></img>
                                         </a>
                                     </td>                                         
-                                    <td className="leftcell">
+                                    {/* <td className="leftcell">
                                         <a href="https://twitter.com/jeffreyklwong" target="_blank">
                                             <img src={twitter} className="svg-filter" alt="twitter"></img>
                                         </a>
@@ -66,7 +66,7 @@ const Layout = () => {
                                         <a href="https://twitter.com/jeffreyklwong" target="_blank">
                                             <img src={linkedin} className="svg-filter" alt="linkedin"></img>
                                         </a>
-                                    </td>
+                                    </td> */}
                                 </tr>
                             </tbody>
                         </table>                        

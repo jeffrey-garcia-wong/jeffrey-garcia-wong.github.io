@@ -122,7 +122,15 @@ const Resume = () => {
                     <li className="timeline-item">
                         <h4 className="title">University of South Australia</h4>
                         <p className="year">2003 - 2007</p>
-                        <p className="timeline-text">Bachelor of Computing (E-Commerce)</p>
+                        <p className="timeline-text">
+                            Bachelor of Computing (E-Commerce)
+                            <br/><br/>
+                            <u>Core areas of study: </u><br/>
+                            1. Data Structure &amp; Algorithm<br/>
+                            2. Distributed Computing<br/>
+                            3. Software Engineering<br/>
+                            4. Database Technology<br/>
+                        </p>
                     </li>
 
                     <li className="timeline-item">

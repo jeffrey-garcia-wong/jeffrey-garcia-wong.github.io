@@ -70,7 +70,7 @@ const Contact = () => {
                                 <tr>
                                     <td></td>
                                     <td className="rightcell">
-                                        8-Dec-1978
+                                        8-Dec-19**
                                     </td>
                                 </tr>
                             </tbody>
