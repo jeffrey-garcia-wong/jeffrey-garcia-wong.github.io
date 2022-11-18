@@ -56,7 +56,7 @@ const About = () => {
 
                 My favorite programming languages are Java and Typescript, I favour static-typed 
                 programming languages, as they make my life easier when building large-scale and 
-                long-lasting by catching bug in early stage.<p/>
+                long-lasting systems by catching bug in early stage.<p/>
                 
                 I have exposures and experiences in various technology stacks, ranging from 
                 frontend client to multi-tier backend system, as listed below:<p/>
@@ -149,7 +149,7 @@ const About = () => {
                                         </tr>
                                         <tr>
                                             <td colSpan={2}>
-                                                Mission critical core infrasture service used by 
+                                                Mission critical core infrastructure service used by 
                                                 applications from various lines of business.
                                             </td>
                                         </tr>
