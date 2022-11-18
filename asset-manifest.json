@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a6fbe94.css",
-    "main.js": "/static/js/main.72b9ffc9.js",
+    "main.css": "/static/css/main.2d3f02d6.css",
+    "main.js": "/static/js/main.2a906846.js",
     "static/js/787.3c86a6c9.chunk.js": "/static/js/787.3c86a6c9.chunk.js",
     "static/media/construct-outline.svg": "/static/media/construct-outline.2ad05654eeca7e5462c294fae6d4187f.svg",
     "static/media/logo-docker.svg": "/static/media/logo-docker.953c86e0f627e926c1981ea28f9f7190.svg",
@@ -13,11 +13,9 @@
     "static/media/stats-chart-outline.svg": "/static/media/stats-chart-outline.afa611baf77561ed70a5aaac7d9807bb.svg",
     "static/media/server-outline.svg": "/static/media/server-outline.20642cf31293c7a8fcd8a98b5266631a.svg",
     "static/media/calculator-outline.svg": "/static/media/calculator-outline.5ec1cd2c87e20670f8d096a51231c15c.svg",
-    "static/media/logo-twitter.svg": "/static/media/logo-twitter.08f5eba210ba5ba196f091750e7ad509.svg",
     "static/media/call-outline.svg": "/static/media/call-outline.52e287f0ae021ac3a0d4b28c657bd0dd.svg",
     "static/media/briefcase-outline.svg": "/static/media/briefcase-outline.7cbfce257fe5a029a18371d02b3db4d2.svg",
     "static/media/school-outline.svg": "/static/media/school-outline.91bd778810eef524879cf0ae21eb9ddc.svg",
-    "static/media/logo-linkedin.svg": "/static/media/logo-linkedin.232967f1ae45581380e0407a929d0ecc.svg",
     "static/media/desktop-outline.svg": "/static/media/desktop-outline.7052ea875b18f03c7b76c1cb04cac6ee.svg",
     "static/media/terminal-outline.svg": "/static/media/terminal-outline.f649ee4b438623e56cb18bd3dd1a31a8.svg",
     "static/media/cloud-done-outline.svg": "/static/media/cloud-done-outline.2fdda3a55790a977dcbbdb733a54349e.svg",
@@ -27,12 +25,12 @@
     "static/media/mail-outline.svg": "/static/media/mail-outline.b1d0115dae91e5ca5f90b3a040fc30f2.svg",
     "static/media/refresh-outline.svg": "/static/media/refresh-outline.9f488e441392acb066f9517dd555cc32.svg",
     "static/media/play-outline.svg": "/static/media/play-outline.445be309918ac7ac98324a3f230aac78.svg",
-    "main.2a6fbe94.css.map": "/static/css/main.2a6fbe94.css.map",
-    "main.72b9ffc9.js.map": "/static/js/main.72b9ffc9.js.map",
+    "main.2d3f02d6.css.map": "/static/css/main.2d3f02d6.css.map",
+    "main.2a906846.js.map": "/static/js/main.2a906846.js.map",
     "787.3c86a6c9.chunk.js.map": "/static/js/787.3c86a6c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a6fbe94.css",
-    "static/js/main.72b9ffc9.js"
+    "static/css/main.2d3f02d6.css",
+    "static/js/main.2a906846.js"
   ]
 }
