@@ -438,3 +438,13 @@ img {
   left: 5px;
   top: 0px;
 }
+
+.timeline-list .timeline-item table {
+  width: 50%;
+  border-spacing: 5px;  
+  border-radius: 10px;
+  border: 1px solid #333333;
+  background-color: #282c34;  
+  padding: 5px 5px 5px 5px; 
+  font-size: 12px;    
+}
