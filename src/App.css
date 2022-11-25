@@ -448,3 +448,8 @@ img {
   padding: 5px 5px 5px 5px; 
   font-size: 12px;    
 }
+
+.timeline-list .timeline-item td {
+  text-align: left;
+  vertical-align: top;
+}

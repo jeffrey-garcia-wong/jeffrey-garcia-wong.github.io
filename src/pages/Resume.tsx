@@ -20,37 +20,139 @@ const Resume = () => {
           <li className="timeline-item">
             <h4 className="title">Manulife Asia</h4>
             <p className="year">Mar, 2019 - Jun, 2022</p>
-            <p className="timeline-text">Lead Fullstack Software Engineer</p>
+            <p className="text">Lead Fullstack Software Engineer</p>
+            <table>
+              <tbody>
+                <tr>
+                  <td></td>
+                  <td>
+                    As the full-stack development lead, I oversee the end-to-end
+                    engineering process, from application architecting,
+                    components design, unit-testing, build automation,
+                    integration and release planning.
+                  </td>
+                </tr>
+              </tbody>
+            </table>
           </li>
 
           <li className="timeline-item">
             <h4 className="title">Manulife Asia</h4>
             <p className="year">Aug, 2016 - Feb, 2019</p>
             <p className="text">Digital Engineer</p>
+            <table>
+              <tbody>
+                <tr>
+                  <td></td>
+                  <td>
+                    As the lead in mobile apps development and key engineer in
+                    backend systems, I perform system design and fast
+                    prototyping on emerging cloud-native technology, collaborate
+                    with external vendor's UI developer to build consistent UX
+                    on Browser/Android/iOS platform, ensure timely delivery of
+                    software within budget, conduct code review and enforce
+                    development discipline to control quality of the software.
+                  </td>
+                </tr>
+              </tbody>
+            </table>
           </li>
 
           <li className="timeline-item">
             <h4 className="title">HSBC Global</h4>
-            <p className="year">Jul, 2012 - Jul, 2016</p>
-            <p className="text">Technical Lead</p>
+            <p className="year">Sept, 2015 - Jun, 2016</p>
+            <p className="text">Solution Engineer</p>
+            <table>
+              <tbody>
+                <tr>
+                  <td></td>
+                  <td>
+                    Lead the core application enhancement to address problems
+                    such as maintainability, performance, security and
+                    productivity. Deliverables include performance analysis,
+                    quick prototyping, code refactoring, underlying platforms,
+                    libraries and toolings upgrade.
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </li>
+
+          <li className="timeline-item">
+            <h4 className="title">HSBC Global</h4>
+            <p className="year">Jul, 2012 - Aug, 2015</p>
+            <p className="text">Mobile Technical Lead</p>
+            <table>
+              <tbody>
+                <tr>
+                  <td></td>
+                  <td>
+                    Key engineer to deliver mobile banking app implementation
+                    work for 2 major mobile platforms: Android and iOS on
+                    various smartphone and tablet devices, assist solution
+                    architect on core components design. Accountable to design
+                    and implement all mobile payments features.
+                  </td>
+                </tr>
+              </tbody>
+            </table>
           </li>
 
           <li className="timeline-item">
             <h4 className="title">HSBC Asia</h4>
             <p className="year">Jul, 2009 - Jun, 2012</p>
             <p className="text">Sr. Developer Officer</p>
+            <table>
+              <tbody>
+                <tr>
+                  <td></td>
+                  <td>
+                    Design and implement new features for core applications on
+                    all self-service banking systems. Assist the software
+                    prototyping of next generation Touch Screen ATM and
+                    straight-through ATM Sales campaign.
+                  </td>
+                </tr>
+              </tbody>
+            </table>
           </li>
 
           <li className="timeline-item">
             <h4 className="title">HSBC Asia</h4>
             <p className="year">Jun, 2006 - Jun, 2009</p>
             <p className="text">Developer Officer</p>
+            <table>
+              <tbody>
+                <tr>
+                  <td></td>
+                  <td>
+                    Implement and support client-side systems for the 2 major
+                    self-service banking systems: Java-based Automatic Teller
+                    Machines (ATM) and VB6-based Bulk Cash Deposit Machine
+                    (BCDM) in various Asia Pacific markets.
+                  </td>
+                </tr>
+              </tbody>
+            </table>
           </li>
 
           <li className="timeline-item">
             <h4 className="title">HSBC Asia</h4>
             <p className="year">Jul, 2001 - May, 2006</p>
             <p className="text">Analyst Programmer</p>
+            <table>
+              <tbody>
+                <tr>
+                  <td></td>
+                  <td>
+                    Implement and support of the PC/LAN infrastructure and
+                    on-premise servers, ranging from client-side automation
+                    (Windows-based desktop) to server-side (40% Window-based,
+                    30% Linux-based and 30% Unix-based) automation.
+                  </td>
+                </tr>
+              </tbody>
+            </table>
           </li>
         </ol>
       </div>
