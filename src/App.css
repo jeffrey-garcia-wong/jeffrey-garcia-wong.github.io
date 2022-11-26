@@ -440,7 +440,7 @@ img {
 }
 
 .timeline-list .timeline-item table {
-  width: 50%;
+  width: 100%;
   border-spacing: 5px;  
   border-radius: 10px;
   border: 1px solid #333333;
